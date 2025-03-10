@@ -1,0 +1,19 @@
+
+---
+
+### **🔹 Step 2: Implement `requirements.txt`**
+```txt
+fastapi
+uvicorn
+opencv-python
+torch
+torchvision
+numpy
+Pillow
+matplotlib
+tensorflow
+pyyaml
+requests
+flask
+flask-cors
+scipy
